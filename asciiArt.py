@@ -1,9 +1,6 @@
 '''
 ASCII Art maker
-Creates an ascii art image from an arbitrary image
-Created on 7 Sep 2009
- 
-@author: Steven Kay
+
 '''
  
 from PIL import Image
